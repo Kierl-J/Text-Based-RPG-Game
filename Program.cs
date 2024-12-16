@@ -26,7 +26,7 @@ namespace EndersDragon
             Console.Clear();
             Console.WriteLine("You grope around in the darkness until you find a door handle. You feel some resistance as");
             Console.WriteLine("you turn the handle, but the rustly lock breaks with little effort. You see your captor");
-            Console.WriteLine("standing with his back to you outside the door")
+            Console.WriteLine("standing with his back to you outside the door");
 
         }
     }

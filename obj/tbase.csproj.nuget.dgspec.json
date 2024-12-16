@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\inotm\\OneDrive\\Desktop\\tbase\\tbase.csproj": {}
+    "C:\\Users\\inotm\\OneDrive\\Desktop\\NewF\\tbase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\inotm\\OneDrive\\Desktop\\tbase\\tbase.csproj": {
+    "C:\\Users\\inotm\\OneDrive\\Desktop\\NewF\\tbase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\inotm\\OneDrive\\Desktop\\tbase\\tbase.csproj",
+        "projectUniqueName": "C:\\Users\\inotm\\OneDrive\\Desktop\\NewF\\tbase.csproj",
         "projectName": "tbase",
-        "projectPath": "C:\\Users\\inotm\\OneDrive\\Desktop\\tbase\\tbase.csproj",
+        "projectPath": "C:\\Users\\inotm\\OneDrive\\Desktop\\NewF\\tbase.csproj",
         "packagesPath": "C:\\Users\\inotm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\inotm\\OneDrive\\Desktop\\tbase\\obj\\",
+        "outputPath": "C:\\Users\\inotm\\OneDrive\\Desktop\\NewF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inotm\\AppData\\Roaming\\NuGet\\NuGet.Config"
