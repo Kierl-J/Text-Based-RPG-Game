@@ -1,0 +1,14 @@
+C:\Users\inotm\OneDrive\Desktop\tbase\bin\Debug\net9.0\tbase.exe
+C:\Users\inotm\OneDrive\Desktop\tbase\bin\Debug\net9.0\tbase.deps.json
+C:\Users\inotm\OneDrive\Desktop\tbase\bin\Debug\net9.0\tbase.runtimeconfig.json
+C:\Users\inotm\OneDrive\Desktop\tbase\bin\Debug\net9.0\tbase.dll
+C:\Users\inotm\OneDrive\Desktop\tbase\bin\Debug\net9.0\tbase.pdb
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.AssemblyInfoInputs.cache
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.AssemblyInfo.cs
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.csproj.CoreCompileInputs.cache
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.dll
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\refint\tbase.dll
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.pdb
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\tbase.genruntimeconfig.cache
+C:\Users\inotm\OneDrive\Desktop\tbase\obj\Debug\net9.0\ref\tbase.dll
